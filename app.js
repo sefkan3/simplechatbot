@@ -19,6 +19,10 @@ rl.on('line', reply => {
                 console.log("A Big Hello from SimpleBot");
                 rl.prompt();
                 break;
+            case 'Exit':
+                console.log("Have a wonderful day");
+                process.exit(0);
+                break;
             default: {
                 console.log("I am not sure what you mean. Can you repeat that?");
                 rl.prompt();
