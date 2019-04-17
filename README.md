@@ -1,2 +1,2 @@
 # simplechatbot
-A simple weather chatbot written in Javascript and node
+A simple weather chatbot written in Javascript using node
