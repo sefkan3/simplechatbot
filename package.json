@@ -1,0 +1,14 @@
+{
+  "name": "simplebot",
+  "version": "1.0.0",
+  "description": "a rule based weather chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xregexp": "^4.2.4"
+  }
+}
